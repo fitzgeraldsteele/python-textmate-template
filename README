@@ -1,0 +1,21 @@
+h1. python-textmate-template
+
+by Fitzgerald Steele, Jr.
+
+This is a starter template file for python scripts, based on a "blog post I wrote back in the day":http://fitzgeraldsteele.wordpress.com/2009/08/12/new-python-file-textmate-template/ .
+
+This textmate template helps you: 
+
+* Follow the Pythonista style
+* Parse some command line arguments – usually an input file
+* Enable logging (either file based, or to the console)
+
+h2. Installation
+
+# Select Bundles > Bundle Editor > Show Bundle Editor
+# Select and Open the Python Bundle
+# Find the Python Bundle Templates
+# Copy one into a new Template.  Give it a sensible name
+# Replace the template.py text the code from this repo
+
+Even if you don’t use Textmate, you can still use this to quickstart python modules.  Just remove/replace the $TM_ variables
